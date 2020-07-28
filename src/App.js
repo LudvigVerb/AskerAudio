@@ -9,9 +9,7 @@ function App() {
       <AppBar />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Heisann! Her kommer rå nettside.
-        </p>
+        <p>Heisann! Her kommer rå nettside.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
