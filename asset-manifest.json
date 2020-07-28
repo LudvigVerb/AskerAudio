@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.70aca783.chunk.js",
-    "main.js.map": "/static/js/main.70aca783.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.775457a4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.775457a4.js.map",
-    "static/js/2.783e867b.chunk.js": "/static/js/2.783e867b.chunk.js",
-    "static/js/2.783e867b.chunk.js.map": "/static/js/2.783e867b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e23ef259085afbc004bd1dab4cf14621.js": "/precache-manifest.e23ef259085afbc004bd1dab4cf14621.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.783e867b.chunk.js.LICENSE.txt": "/static/js/2.783e867b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/AskerAudio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AskerAudio/static/js/main.9df79d01.chunk.js",
+    "main.js.map": "/AskerAudio/static/js/main.9df79d01.chunk.js.map",
+    "runtime-main.js": "/AskerAudio/static/js/runtime-main.6409976b.js",
+    "runtime-main.js.map": "/AskerAudio/static/js/runtime-main.6409976b.js.map",
+    "static/js/2.783e867b.chunk.js": "/AskerAudio/static/js/2.783e867b.chunk.js",
+    "static/js/2.783e867b.chunk.js.map": "/AskerAudio/static/js/2.783e867b.chunk.js.map",
+    "index.html": "/AskerAudio/index.html",
+    "precache-manifest.ef4af1e9b580e276fd06da5f09e36447.js": "/AskerAudio/precache-manifest.ef4af1e9b580e276fd06da5f09e36447.js",
+    "service-worker.js": "/AskerAudio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AskerAudio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.783e867b.chunk.js.LICENSE.txt": "/AskerAudio/static/js/2.783e867b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AskerAudio/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.775457a4.js",
+    "static/js/runtime-main.6409976b.js",
     "static/js/2.783e867b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.70aca783.chunk.js"
+    "static/js/main.9df79d01.chunk.js"
   ]
 }
