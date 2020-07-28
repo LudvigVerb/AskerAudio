@@ -1,14 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import AppBar from "./components/AppBar";
 
 function App() {
   return (
     <div className="App">
+      <AppBar />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Halla <code>src/App.js</code> Her kommer rå nettside.
+          Heisann! Her kommer rå nettside.
         </p>
         <a
           className="App-link"
