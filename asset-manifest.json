@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/AskerAudio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/AskerAudio/static/js/main.e04abc5f.chunk.js",
-    "main.js.map": "/AskerAudio/static/js/main.e04abc5f.chunk.js.map",
+    "main.js": "/AskerAudio/static/js/main.749cec21.chunk.js",
+    "main.js.map": "/AskerAudio/static/js/main.749cec21.chunk.js.map",
     "runtime-main.js": "/AskerAudio/static/js/runtime-main.6409976b.js",
     "runtime-main.js.map": "/AskerAudio/static/js/runtime-main.6409976b.js.map",
-    "static/js/2.783e867b.chunk.js": "/AskerAudio/static/js/2.783e867b.chunk.js",
-    "static/js/2.783e867b.chunk.js.map": "/AskerAudio/static/js/2.783e867b.chunk.js.map",
+    "static/js/2.4db25c03.chunk.js": "/AskerAudio/static/js/2.4db25c03.chunk.js",
+    "static/js/2.4db25c03.chunk.js.map": "/AskerAudio/static/js/2.4db25c03.chunk.js.map",
     "index.html": "/AskerAudio/index.html",
-    "precache-manifest.59fe756b9ea11b68917b9bf25ee2bff3.js": "/AskerAudio/precache-manifest.59fe756b9ea11b68917b9bf25ee2bff3.js",
+    "precache-manifest.06a677ea75910f946afd6c2562eec02a.js": "/AskerAudio/precache-manifest.06a677ea75910f946afd6c2562eec02a.js",
     "service-worker.js": "/AskerAudio/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/AskerAudio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.783e867b.chunk.js.LICENSE.txt": "/AskerAudio/static/js/2.783e867b.chunk.js.LICENSE.txt",
+    "static/js/2.4db25c03.chunk.js.LICENSE.txt": "/AskerAudio/static/js/2.4db25c03.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/AskerAudio/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6409976b.js",
-    "static/js/2.783e867b.chunk.js",
+    "static/js/2.4db25c03.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e04abc5f.chunk.js"
+    "static/js/main.749cec21.chunk.js"
   ]
 }
